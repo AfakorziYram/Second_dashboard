@@ -109,7 +109,7 @@ function Sidebar() {
                   Yram
                 </Typography>
                 <Typography variant="h6" color={colors.greenAccent[500]}>
-                  Fancy Admin
+                  Admin
                 </Typography>
               </Box>
             </Box>
